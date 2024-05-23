@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 300px;
+}
+
+.nama {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+.intro {
+  font-size: 18px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+  border-radius: 50%;
+  box-shadow: 2px 2px 4px peru;
+}
+.tentang {
+  padding-top: 10px;
+  height: 200px;
+  background-color: peru;
+}
+
+.h1-tentang {
+  color: white;
+  margin-bottom: 15px;
+  margin-top: 5px;
+  text-align: center;
+}
+
+.paragraf-tentang {
+  width: 80%;
+  margin: auto;
+  color: white;
+}
+
+.keahlian {
+    text-align: center;
+    padding: 10px 0;
+}
+.paragraf-keahlian { 
+    text-align : center;
+    color: peru;
+    padding-top: 20px;
+}
+
+
